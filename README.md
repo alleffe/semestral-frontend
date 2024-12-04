@@ -49,7 +49,7 @@ src/
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/frontend-mvc.git](https://github.com/alleffe/semestral-frontend/)
+   git clone https://github.com/seu-usuario/frontend-mvc.git
    cd frontend-mvc
    ```
 
